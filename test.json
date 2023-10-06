@@ -1,0 +1,12 @@
+{
+  "nome": "John Doe",
+  "idade": 30,
+  "cidade": "Exemploville",
+  "interesses": ["leitura", "esportes", "tecnologia"],
+  "endereco": {
+    "rua": "123 Main Street",
+    "cidade": "Exemploville",
+    "estado": "Exemplostate",
+    "cep": "12345-678"
+  }
+}
